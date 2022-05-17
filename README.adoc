@@ -2,8 +2,6 @@
 
 This is an simple example about how to build an application with Hexagonal Architecture in a Spring Data Application.
 
-This application uses a H2 Data Base, wich is a Data Base in memory.
-
 == How to run it?
 
 ```
